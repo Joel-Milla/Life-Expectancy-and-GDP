@@ -25,3 +25,41 @@ Network Trash Folder
 Temporary Items
 .apdisk
 .ipynb_checkpoints/
+
+# Windows-specific ignore patterns
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+
+# Folder config files
+Desktop.ini
+desktop.ini
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# Windows Image Backup
+WindowsImageBackup/
+
+# System files
+hiberfil.sys
+pagefile.sys
+swapfile.sys
+
+# Temporary files that should be ignored
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Lock files
+~$*
