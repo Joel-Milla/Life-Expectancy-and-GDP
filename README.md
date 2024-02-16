@@ -9,6 +9,8 @@ This project is part of a data science course focused on using techniques to ana
 - Applies the Pearson correlation test to determine if there is any correlation between life expectancy and GDP in the six countries.
 
 ## Setup and installation
+You can see the Jupyter Notebook [here](StreetEasy%20Model.ipynb) or can install it locally using the next steps:
+
 **Prerequisite**: This project requires Jupyter Notebook to be installed. If you do not have Jupyter Notebook installed, you can find installation instructions at the [documentation](https://jupyter.org).
 
 To set up and show the notebook locally, follow these steps:
